@@ -41,7 +41,7 @@ Aplicación monolítica construida en Node.js con Express, MySQL y JWT que integ
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://dev.azure.com/MontecheloPipelines/MinTIC/_git/Widget-MinTic
+git clone
 
 # 2. Entrar al directorio del proyecto
 cd widget-chat-web-mintic/v1/
@@ -656,8 +656,8 @@ Los logs se generan en:
 ## 🔑 Acceso a la Aplicación
 
 ### Ambientes de Pruebas
-- **URL**: https://demoXXXXXXXXXXXXXX.com
-- **Monitor**: https://demoXXXXXXXXXXXXXX.com/widget/chat/monitor
+- **URL**: https://mintic-widget.mysoul.software
+- **Monitor**: https://mintic-widget.mysoul.software/widget/chat/monitor
 
 ### Ambientes de Producción
 - **URL**: https://mintic-widget.mysoul.software
@@ -670,6 +670,7 @@ Los logs se generan en:
 ## 🤝 Contribuyendo
 
 Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
+Repositorio: https://dev.azure.com/MontecheloPipelines/MinTIC/_git/Widget-MinTic
 
 1. **Desde la rama master**, crea una rama `nombre_tu_rama`
 2. **Clone el proyecto** desde el repositorio oficial y rama master
