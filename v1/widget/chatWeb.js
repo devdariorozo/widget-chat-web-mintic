@@ -7,7 +7,8 @@
 // v1/widget/chatWeb.js
 
 // ! VARIABLES GLOBALES
-const APP_URL = 'https://mintic-widget.mysoul.software';
+// const APP_URL = 'https://mintic-widget.mysoul.software';
+const APP_URL = 'http://localhost:5002';
 let chatWeb = '';
 let idChatWeb = '';
 let chatCreado = false; // Variable para rastrear si el chat ya ha sido creado
